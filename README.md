@@ -1,0 +1,1 @@
+Two threads read synchronously a dialogue from a file
